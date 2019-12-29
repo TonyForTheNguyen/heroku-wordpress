@@ -254,23 +254,23 @@
         ]
     },
     {
-        "name": "wpackagist-theme/evolve",
-        "version": "4.2.2",
-        "version_normalized": "4.2.2.0",
+        "name": "wpackagist-theme/astra",
+        "version": "2.1.4",
+        "version_normalized": "2.1.4.0",
         "source": {
             "type": "svn",
-            "url": "https://themes.svn.wordpress.org/evolve/",
-            "reference": "4.2.2"
+            "url": "https://themes.svn.wordpress.org/astra/",
+            "reference": "2.1.4"
         },
         "dist": {
             "type": "zip",
-            "url": "https://downloads.wordpress.org/theme/evolve.4.2.2.zip"
+            "url": "https://downloads.wordpress.org/theme/astra.2.1.4.zip"
         },
         "require": {
             "composer/installers": "~1.0"
         },
         "type": "wordpress-theme",
         "installation-source": "dist",
-        "homepage": "https://wordpress.org/themes/evolve/"
+        "homepage": "https://wordpress.org/themes/astra/"
     }
 ]

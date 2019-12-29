@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "69ee59b4cfd16593ce237689a3480f35",
+    "content-hash": "f49b745dcf47645efeaeffebf4815676",
     "packages": [
         {
             "name": "composer/installers",
@@ -253,22 +253,22 @@
             "time": "2015-06-11T15:15:30+00:00"
         },
         {
-            "name": "wpackagist-theme/evolve",
-            "version": "4.2.2",
+            "name": "wpackagist-theme/astra",
+            "version": "2.1.4",
             "source": {
                 "type": "svn",
-                "url": "https://themes.svn.wordpress.org/evolve/",
-                "reference": "4.2.2"
+                "url": "https://themes.svn.wordpress.org/astra/",
+                "reference": "2.1.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/evolve.4.2.2.zip"
+                "url": "https://downloads.wordpress.org/theme/astra.2.1.4.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-theme",
-            "homepage": "https://wordpress.org/themes/evolve/"
+            "homepage": "https://wordpress.org/themes/astra/"
         }
     ],
     "packages-dev": [],

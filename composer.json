@@ -10,7 +10,7 @@
     "johnpbloch/wordpress": "4.2",
     "ext-gd": "*",
     "ext-memcached": "*",
-    "wpackagist-theme/evolve": "*"
+    "wpackagist-theme/astra":"2.1.4"
   },
   "extra": {
     "wordpress-install-dir": "wp"
